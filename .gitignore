@@ -1,3 +1,7 @@
 Car_Parking_FSM/*
 !Car_Parking_FSM/srcs
 !Car_Parking_FSM/README.md
+Digital_ClocK/*
+!Digital_ClocK/srcs
+Digital_ClocK/srcs/design2/*
+!Digital_ClocK/README.md
