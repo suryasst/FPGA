@@ -1,5 +1,3 @@
-Below is a sample `README.md` file for the provided Pong game implementation:
-
 ---
 
 # **FPGA Pong Game**
