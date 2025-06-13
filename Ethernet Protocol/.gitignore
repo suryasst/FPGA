@@ -1,0 +1,2 @@
+hardware/ethernet/*
+!hardware/ethernet/ethernet.xpr
