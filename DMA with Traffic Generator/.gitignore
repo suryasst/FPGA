@@ -1,0 +1,8 @@
+hardware/*
+!hardware/export
+!hardware/sim
+!hardware/src
+software/*
+!software/traffic_gen_dma
+software/traffic_gen_dma/*
+!software/traffic_gen_dma/src
